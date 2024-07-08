@@ -22,7 +22,7 @@ In this project, a mini sumo robot was built, controlled by a remote control thr
 Email: daniel.orozco.arredondo@gmail.com
 
 ## Downloads
-It is necessary to have Proteus v8.11 software.
+It is necessary to have Proteus v8.11 and PIC C Compiler softwares.
 
 ## License
 MIT Public License v3.0 - This information may not be used commercially.
